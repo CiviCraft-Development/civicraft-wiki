@@ -70,7 +70,7 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },
-        {to: '/discord', label: 'Discord', position: 'left'},
+        {to: '/blog', label: 'Discord', position: 'left'},
         {
           href: 'https://github.com/sspeedwagonn/civicraft-wiki',
           label: 'GitHub',
@@ -99,7 +99,7 @@ const config: Config = {
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.civicraft.net/',
             },
             {
               label: 'Twitter',
@@ -111,7 +111,7 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Discord',
               to: '/blog',
             },
             {
