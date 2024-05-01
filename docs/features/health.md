@@ -16,3 +16,5 @@ Attributes help to improve a player's physical abilities and as a result, immuni
 
 ##### Increasing Attributes Purposefully
 ### Surgeries
+### Diagnostic Imaging
+CT scans, Ultrasounds, MRIs, and X-Rays!
