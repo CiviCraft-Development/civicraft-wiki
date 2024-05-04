@@ -1,7 +1,7 @@
 # Groups
 
 ### How to Create a Group
-
+#### Group Types
 ### Group Discord Template
 To support groups, CiviCraft has created a general template that is ready-to-go for any group wanting to have their own server for communicating outside the server.
 

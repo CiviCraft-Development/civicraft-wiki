@@ -17,6 +17,12 @@ CiviCraft goes out of its way to thank and reward players who take the time to c
 This covers playtime, running in elections, roleplaying, and even just chatting. These activities are rewarded at random but rewarded nonetheless.
 
 ### CiviCraft Shop
-The server shop only accepts CiviCoins and operates entirely in-game so that players may access the shop and their purchases with little delay or fault. There is no other CiviCraft server store, and we do not accept payments using real-life or in-game money.
+The server shop only accepts CiviCoins and operates entirely in-game so that players may access the shop and their purchases with little delay or fault.
 
+---
+**NOTE**
+
+There is no other CiviCraft server store online or through discord. We aso do not accept payments using real-life or in-game money. If anyone tells you different, please report this to server staff.
+
+---
 ### CiviCoins FAQ

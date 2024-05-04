@@ -16,3 +16,6 @@ When a player is sentenced to death, they are held in Range 13 for the duration 
 
 ### Prison Escape
 There are many ways to escape prison from social engineering to devising a complex escape plan.
+
+### Activities & Locations
+### Guards
