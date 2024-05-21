@@ -1,7 +1,7 @@
 # Developer
 
 ### Overview
-### How to Become a
+### How to Become a Developer
 ### Job Duties
 ### Perks
 ### Payment

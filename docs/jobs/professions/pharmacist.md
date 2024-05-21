@@ -1,7 +1,7 @@
 # Pharmacist
 
 ### Overview
-### How to Become a
+### How to Become a Pharmacist
 ### Job Duties
 ### Perks
 ### Payment
