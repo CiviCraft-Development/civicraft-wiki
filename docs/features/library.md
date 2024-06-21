@@ -18,38 +18,21 @@ With a library card, players gain access to a treasure trove of player-written b
 #### Sections and Genres
 The library's stacks are split into two main sections: fiction and non-fiction. Each section is then split into genres! Below is an overview of all the genres that the library offers.
 
-| Category    | Genres                   |
-|-------------|--------------------------|
-| Non-Fiction | Biography                |
-|             | Memoir                   |
-|             | Self-Help                |
-|             | History                  |
-|             | Science                  |
-|             | Travel                   |
-|             | True Crime               |
-|             | Essay                    |
-|             | Philosophy               |
-|             | Journalism               |
-|             | Guide                    |
-|             | Manual                   |
-|             | Religion                 |
-|             | Spirituality             |
-| ----------- | ------------------------ |
-| Fiction     | Fantasy                  |
-|             | Science Fiction          |
-|             | Mystery                  |
-|             | Thriller                 |
-|             | Romance                  |
-|             | Historical Fiction       |
-|             | Horror                   |
-|             | Literary Fiction         |
-|             | Young Adult              |
-|             | Dystopian                |
-|             | Adventure                |
-|             | Magical Realism          |
-|             | Crime                    |
-|             | Graphic Novel            |
-|             | Short Story Collection   |
+| Category    | Genres     |              |            |           |
+|-------------|------------|--------------|------------|-----------|
+| Non-Fiction | Biography  | Memoir       | Self-Help  | History   |
+|             | Science    | Travel       | True Crime | Essay     |
+|             | Philosophy | Journalism   | Guide      | Cookbooks |
+|             | Religion   | Spirituality | Fitness    | Business  |
+
+| Category | Genres      |                        |           |                  |
+|----------|-------------|------------------------|-----------|------------------|
+| Fiction  | Fantasy     | Science Fiction        | Mystery   | Thriller         |
+|          | Romance     | Historical Fiction     | Horror    | Literary Fiction |
+|          | Young Adult | Dystopian              | Adventure | Magical Realism  |
+|          | Crime       | Short Story Collection |           |                  |
+
+
 
 
 ### Rent Library Books
