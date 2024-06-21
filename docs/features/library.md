@@ -7,7 +7,8 @@ Each library offers an exam that, once completed, automatically issues a library
 
 #### Option 2: Talk to a Librarian
 Players can also obtain a library card by speaking with a librarian. The librarian will explain how to use the card and the circumstances that can lead to its revocation. After this brief orientation, the librarian will create a library card for the player, allowing them to start checking out books immediately.
-Additional Information
+
+#### Additional Information
 
 Only one of these options needs to be completed to obtain a library card. However, if players require further assistance or have any questions, librarians are always available to provide help and support.
 

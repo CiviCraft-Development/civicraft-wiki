@@ -1,5 +1,6 @@
-# Recycling
+# Trash & Recycling
 
-### How to Recycle
+### Trash
+### Recycling
 ### Locating Recycling Bins
 ### Recyclables
