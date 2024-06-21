@@ -1,0 +1,8 @@
+{
+  "label": "Support Roles",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Roles that do not fall under staff or government. They are independent teams that work to improve server experience with no moderation authority."
+  }
+}
