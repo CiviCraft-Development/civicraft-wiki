@@ -78,6 +78,7 @@ When players report concerns or suspected violations, it is crucial that staff h
 1. Acknowledge the Report:
 * Promptly acknowledge receipt of the report to the player.
 * Thank the player for bringing the issue to attention and assure them that it will be investigated thoroughly.
+* Limit the ticket to only senior staff.
 
 2. Investigate Promptly:
 * Conduct a thorough investigation into the reported concern, gathering all relevant information and evidence.
