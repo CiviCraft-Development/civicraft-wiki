@@ -4,7 +4,11 @@ The State of the Server report is a report that is published by server ownership
 Server Costs goes over all money spent on the server to keep it functional. If donations are accepted in the future, this will also provide a detailed report on how the funds were used to contribute to the operations and maintenance of the server.
 
 ### Plugin Development
-CiviCraft boasts a number of proprietary plugins that are developed in-house and are constantly updated and improved. These plugins support key aspects of the server and are the heart of what sets us apart. This section contains a combination of changes and technical details that seeks to give players interested in our development insights on what we are doing and how we are doing it.
+CiviCraft features a suite of proprietary plugins, developed in-house and continuously refined to enhance server functionality. These custom plugins underpin critical server operations and distinguish us from other servers. This section provides detailed information on recent updates and technical aspects, offering players an in-depth look at our development process and the innovations driving our server.
+
+Our development team is dedicated to innovation, consistently updating and improving these plugins to ensure optimal performance and to introduce new features that keep our server dynamic and engaging. This section provides comprehensive information on recent updates, technical enhancements, and detailed descriptions of our plugins.
+
+By offering this insight, we aim to give players a transparent view into our development process, showcasing the technical expertise and creative efforts that go into making CiviCraft a unique and enjoyable environment. Whether you are a curious player, a fellow developer, or an enthusiast of Minecraft plugins, you will find valuable information here about what we are doing and how we are doing it, including the challenges we face and the solutions we implement to overcome them.
 
 ### Server Metrics
 Server Metrics are provided by PLAN, which is available to all, and a few other backend utilities that are only accessible by senior staff. 
