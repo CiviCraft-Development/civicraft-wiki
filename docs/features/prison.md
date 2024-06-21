@@ -3,6 +3,7 @@ CiviCraft's jail system is designed to maintain order and enforce rules within t
 
 ### Prison Sentences
 #### Government Sentences
+The Department of Justice is in charge of 
 #### Staff Sentences
 A portion of the prison is reserved for players who break server rules. This area is divided into specific sections for different types of sentences initiated by staff. Unlike government-maintained units where prisoners have freedom to move around, these sections are highly restrictive.
 
@@ -36,7 +37,7 @@ When a player is sentenced to death, they are confined to Range 13, a high-secur
 #### Player Options Post-Sentencing
 After receiving their sentence, players have several options to consider regarding their impending execution:
 
-1. **Accepting Their Fate:**
+1. **Accept Fate:**
     - **Voluntary Acceptance:** Players may choose to accept their sentence and await their execution without contesting it. This choice often reflects an acknowledgment of their actions and acceptance of the server's judgment.
    - **Execution Arrangement:** Players who accept their fate typically have the option to choose between a formal death penalty ceremony or an immediate permanent ban.
 
