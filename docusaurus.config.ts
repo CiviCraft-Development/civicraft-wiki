@@ -72,7 +72,7 @@ const config: Config = {
       },
       {
         name: 'keywords',
-        content: 'CiviCraft, CivCraft, CiviCraft Wiki, City RP, City Roleplay, City Roleplay Wiki, RP Strategies, City-Building Tips, Roleplaying Guide'
+        content: 'CiviCraft, CivCraft, CiviCraft Wiki, City RP, City Roleplay, City Roleplay Wiki, RP Strategies, City-Building Tips, Roleplaying Guide, Civcraft, civcraft wiki, minecraft server, minecraft roleplay, minecraft city roleplay, minecraft cops and robbers'
       },
       {
         property: 'og:title',
@@ -171,7 +171,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} CiviCraft`,
+      copyright: `Copyright © 2024 CiviCraft`,
     },
     prism: {
       theme: prismThemes.github,
