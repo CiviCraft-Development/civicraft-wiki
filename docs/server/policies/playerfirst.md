@@ -1,4 +1,4 @@
-# Players First
+# Player First
 
 Our foremost priority is to put players first in all decisions and changes. This policy outlines our unwavering commitment to the CiviCraft community, detailing the guidelines our staff team follows when implementing new features and making critical decisions. We also provide clear instructions on how players can report any concerns or suspected violations, ensuring transparency and accountability. By adhering to these principles, we aim to foster a supportive and engaging environment where every player feels valued, heard, and put *first.*
 
