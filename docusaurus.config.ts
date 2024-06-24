@@ -33,19 +33,23 @@ const config: Config = {
     [
       'classic',
       {
+        gtag: {
+          trackingID: 'G-J4MMNQVBHQ',
+          anonymizeIP: false,
+        },
         docs: {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sspeedwagonn/civicraft-wiki',
+            'https://github.com/sspeedwagonn/civicraft-wiki/blob/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sspeedwagonn/civicraft-wiki',
+            'https://github.com/sspeedwagonn/civicraft-wiki/blob/main',
         },
         theme: {
           customCss: './src/css/custom.css',
