@@ -61,11 +61,57 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    metadata: [
+      {
+        name: 'title',
+        content: 'CiviCraft Wiki - Your Ultimate Guide to City Roleplay'
+      },
+      {
+        name: 'description',
+        content: 'Explore the CiviCraft Wiki for comprehensive guides, tips, and strategies on city roleplay and RP. Join the CiviCraft community and master your city-building skills!'
+      },
+      {
+        name: 'keywords',
+        content: 'CiviCraft, CivCraft, CiviCraft Wiki, City RP, City Roleplay, City Roleplay Wiki, RP Strategies, City-Building Tips, Roleplaying Guide'
+      },
+      {
+        property: 'og:title',
+        content: 'CiviCraft Wiki - Your Ultimate Guide to City Roleplay'
+      },
+      {
+        property: 'og:description',
+        content: 'Discover everything you need to know about CiviCraft city roleplay. From beginner tips to advanced strategies, our comprehensive wiki has it all.'
+      },
+      {
+        property: 'og:url',
+        content: 'https://wiki.civicraft.net'
+      },
+      {
+        property: 'og:image',
+        content: 'https://wiki.civicraft.net/img/og-image.png' // Replace with actual image URL
+      },
+      {
+        name: 'twitter:card',
+        content: 'summary_large_image'
+      },
+      {
+        name: 'twitter:title',
+        content: 'CiviCraft Wiki - Your Ultimate Guide to City Roleplay'
+      },
+      {
+        name: 'twitter:description',
+        content: 'Join the CiviCraft community and learn everything about city roleplay. Access guides, tips, and strategies to excel in your RP adventures.'
+      },
+      {
+        name: 'twitter:image',
+        content: 'https://wiki.civicraft.net/img/twitter-image.png' // Replace with actual image URL
+      }
+    ],
     navbar: {
       title: 'CiviCraft',
       logo: {
         alt: 'CiviCraft logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -90,7 +136,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/',
             },
           ],
         },
@@ -125,7 +171,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} CiviCraft`,
     },
     prism: {
       theme: prismThemes.github,
