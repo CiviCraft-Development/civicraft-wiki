@@ -2,6 +2,8 @@
 
 The Anderstaad Medical Center (AMC) stands as a global beacon of healthcare excellence, recognized as the largest hospital in the world. Operated under the Osthaven Department of Health and Human Services, AMC is dedicated to enhancing the well-being of its diverse patient population. Boasting an elite team of extensively trained medical professionals, AMC is at the forefront of medical innovation. 
 
+
+
 ## Locations
 
 ### Emergency Department
