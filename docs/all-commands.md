@@ -22,6 +22,12 @@ Almost all commands, at bare minimum, require a player to hold the rank of Citiz
 | /apply review [Player]                                  | Allows player to review applications submitted by a player.       |
 | /apply status                                           | Checks the status of submitted applications.                      |
 | /apply submit [Dept]                                    | Submits an application to the department.                         |
+| /autograph                                              | Allows player to autograph any item.                              |
+| /celebrity                                              | Opens the celebrity GUI                                           |
+| /celebrity help                                         | Provides information on using the celebrity commands.             |
+| /celebrity rate [Player]                                | Adds +1 to a player's status. Cooldown of 24 hours.               |
+| /celebrity status [Player]                              | Checks celebrity status                                           |
+| /celebrity top                                          | Shows players with the topmost ratings                            |
 | /class                                                  | Opens the class GUI.                                              |
 | /class join [classID]                                   | Joins an active live class.                                       |
 | /class leave [classID]                                  | Leaves a active live class.                                       |
