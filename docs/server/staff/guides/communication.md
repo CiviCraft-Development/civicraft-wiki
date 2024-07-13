@@ -21,9 +21,17 @@ Information on using appropriate tone and language.
 ## Player Interaction
 
 ### Welcoming New Players
+Player retention starts the moment a new player joins the server. The initial experience is crucial, as it sets the tone for their entire journey within the community. A warm welcome, clear guidance, and immediate engagement can significantly influence their decision to stay and explore further. By creating a positive first impression, we lay the foundation for long-term involvement, turning newcomers into active and engaged members of our community.
+
 #### In-Game
+CiviCraft features a custom plugin designed to reward players for welcoming newcomers and returning players to the server. Staff are encouraged to make use of the plugin's features to enhance player retention and to enjoy the rewards from the plugin.
+
+This plugin incentivizes online players to welcome or welcome back others based on their join status. When the /welcome or /wb command is executed, the plugin selects a random welcome message and sends it to the target on behalf of the welcoming player, who is then rewarded for their action. Additionally, players with the highest number of welcomes recorded each month will receive special rewards, further encouraging consistent engagement and community-building.
+
+Staff are also welcome to greet players through chat or message on their own, independent of the plugin.
+
 #### Discord
-There are a two different ways to welcome a new member to the Discord.
+There are two different ways to welcome a new member to the Discord.
 1. Built-In Discord Welcoming
 Discord offers a built-in feature that allows you to welcome new players with the click of a button. By clicking it, it automatically mentions the new user and sends a gif alongside it. 
 
@@ -37,10 +45,10 @@ Tip: Try inviting a player to play with you.
 
 Within the first 24 hours of a player being on the Discord, try prioritizing engaging with them. 
 ### Helping Players & Answering Questions
-CiviCraft boasts a number of resources available to players to assist them in learning the server and easily getting an answer to 99% of their questions. In-Game tutorials of various lengths, video guides, a wiki, an in-game book, and more are provided to players. However, we can never assume players will completely engage with these resources if they engage with them at all. While this can create difficulties for them, 
+CiviCraft boasts a number of resources available to players to assist them in learning the server and easily getting an answer to 99% of their questions. In-Game tutorials of various lengths, video guides, a wiki, an in-game book, and more are provided to players. However, we can never assume players will completely engage with these resources if they engage with them at all. While this can create difficulties for them, that's where staff and guides step in!
 
 #### Answer the Question Directly
-A lot of people answering questions 
+Staff should respond to player inquiries directly rather than simply sending links or running automated commands. Providing personalized answers demonstrates attentiveness and care, making players feel valued and supported.
 
 ### Handling Player Complaints
 
@@ -77,35 +85,18 @@ We’ll review a few causes of conflict in project teams in this course. Treat t
     Communication issues: communication occurs in nearly every project activity. As a result, most conflict stems from communication issues. For example, team members who are active listeners can prevent and resolve conflict faster than those who need to develop their listening skills. Differences in writing styles, including formality, tone, and presentation, can lead to miscommunication and conflict. Cultural differences can include differences in communication, including tone, subtlety, and word choice. It can also include differences in typical expressiveness, body language, and personal space. Conflicting cultural norms can lead to misunderstandings if team members don’t understand how to interpret each other.
 
 #### Conflict Resolution Strategies
-Effectively managing conflict requires a lifetime of practice, but fortunately, everybody you’ll ever meet is going through the same experience. With practice, conflict recognition and resolution become natural habits for PMs. You can manage and resolve conflict by applying five strategies: smoothing, forcing, compromising, collaborating, and avoiding. You might apply multiple techniques to a single conflict, and you already use these strategies in your work and personal life.
+You can manage and resolve conflict by applying five strategies: smoothing, forcing, compromising, collaborating, and avoiding. You might apply multiple techniques to a single conflict, and you already use these strategies in your work and personal life.
 
-Smoothing
+- Smoothing: Redirecting attention away from the conflict temporarily, focusing on common ground to ease tension and prepare for negotiation.
 
-The smoothing style is also called the "accommodating" style. This style attempts to redirect their attention away from the conflict. You would refocus the parties on something they agree on while de-emphasizing any differences. This strategy is usually a temporary measure to ease tension and get parties to where they are ready to negotiate a solution.
+- Forcing: Making decisive decisions in urgent situations, ensuring quick resolutions without prolonged debate.
 
-For example, suppose two team members disagree about the product’s color scheme. The conflict has escalated to where the opposing parties are talking over each other and insulting each other’s ideas. In this case, you could use a smoothing technique by reminding them that everybody on the team wants to create a good product, and the team can review what the customer needs to find a good color scheme. Reminding the group that the customer’s opinion is the most important can help them take a mental step back. Next, you could move to a collaborating technique by reviewing the problem, requirements, and ideas together.
+- Compromising: Finding middle ground where each party gives up something but gains a satisfactory outcome.
 
-Use a smoothing strategy when you need to de-escalate a conflict quickly. You can also use smoothing to reduce friction temporarily while you look for a long-term resolution.
-Forcing
+- Collaborating: Working together to create solutions that benefit everyone involved, fostering creativity and commitment to the outcome.
 
-The forcing style is also called the "dominating" style. In this style, you would manage conflict by deciding what needs to happen to fix the issue. Emergencies are a perfect example of a forcing strategy; the team doesn’t have time to debate a solution in the middle of a fire. Somebody needs to make a decision and move on. Forcing can be a protective strategy, too.
+- Avoiding: Temporarily ignoring minor issues or situations where resolving the conflict may not significantly benefit the team.
 
-Use a forcing strategy when you need to make a quick decision, in an emergency, or to ease the strain of unpopular resolutions.
-Compromising
-
-The compromising style requires both parties to meet in the middle. The people in the conflict share their insights and concede to change something but keep some part of their idea. Nobody gets everything they want, but they all receive something.
-
-Use a compromising strategy when both parties are willing to give up something and both arguments have merit.
-Collaborating
-
-The collaborating style is also called a "win-win situation." In this scenario, the parties in the conflict work together to design a new idea that works for everybody. This is the most complex approach and requires the most skill, but it can also produce the most creative results. It requires the parties to commit to finding a solution.
-
-Use this approach when the conflict’s outcome is critical and both parties are invested in the outcome.
-Avoiding
-
-An avoiding strategy ignores the conflict. For example, you might temporarily avoid the issue if you need time to assess the situation. Perhaps the conflict is minor and new and you want to give the team time to resolve it on their own. You can also choose this option if the problem is too small to address and isn’t affecting the team’s performance. Sometimes, a conflict is a “no-win” or “lose-lose” situation. In this scenario, you can’t resolve the dispute without causing harm to somebody else.
-
-Use an avoiding resolution strategy when the issue isn’t hurting the team or resolving the issue won’t help the team.
 #### Conflict Escalation
 
 
@@ -164,7 +155,7 @@ Guidelines for interacting on forums and social media.
 CiviCraft prides itself on being a community that puts extreme effort into fostering a non-toxic community. This is done in a multitude of ways, but the core route is communication.
 
 #### No Tolerance Policy
-
+The No Tolerance Policy is specifically targeted at players who engage in inappropriate sexual activities that threaten the safety and well-being of our community members. These players have no place in the server and should be permanently banned without chance of appeal. 
 ### Event Announcements
 If you as a staff member find yourself hosting staff events, whatever the purpose or whoever the audience may be, there are a specific set of guidelines you must follow to make your announcements clear, concise, and helpful!
 #### Create an Event in the Discord Events Tab

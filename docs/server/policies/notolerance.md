@@ -19,7 +19,7 @@ This policy specifically targets and prohibits the following activities:
 ## Reporting and Enforcement
 
 - **Immediate Action**: Any instance of inappropriate sexual activity should be reported immediately to our staff through a discord ticket. This ticket will be restricted as much as the reporting player would like, but by default, it will be restricted to senior administration.
-- **Investigation and Action**: Upon receiving a report, our staff will promptly investigate the matter and take appropriate action, which may include warnings, temporary suspensions, or permanent bans depending on the severity of the offense.
+- **Investigation and Action**: Upon receiving a report, our staff will promptly investigate the matter and take appropriate action.
 
 ## Publicly Available List of Known Sexual Predators
 
