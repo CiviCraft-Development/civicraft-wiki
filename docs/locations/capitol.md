@@ -1,3 +1,3 @@
 # Capitol
 
-The Osthaven Capitol
+The Osthaven Capitol is a 

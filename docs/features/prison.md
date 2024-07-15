@@ -1,19 +1,19 @@
 # Prison
 CiviCraft's jail system is designed to maintain order and enforce rules within the game. It includes various sections to accommodate different types of offenders and sentences. The jail not only serves as a deterrent but also ensures that offenders are held accountable for their actions.
 
-### Prison Sentences
-#### Government Sentences
+## Prison Sentences
+### Government Sentences
 The Department of Justice is in charge of 
-#### Staff Sentences
+### Staff Sentences
 A portion of the prison is reserved for players who break server rules. This area is divided into specific sections for different types of sentences initiated by staff. Unlike government-maintained units where prisoners have freedom to move around, these sections are highly restrictive.
 
-##### Transitional Unit
+#### Transitional Unit
 The Transitional Unit is designated for players who are meant to be __temporarily banned__ for offenses that do not involve hacking. This unit acts as a holding area where players serve their temporary sentences before being released back into the game. Key features include:
 - **Restricted Movement:** Players have limited freedom and are confined to their cells for most of the time.
 - **Limited Communication:** Communication is restricted to prevent further disruption. Players can only speak in the local prison chat.
 - **Monitoring:** Staff closely monitor this unit to ensure compliance with the rules and address any issues promptly.
 
-##### Range 13
+#### Range 13
 Range 13, also known as Death Row, is reserved for players who are meant to be __permanently banned__ for offenses that do not involve hacking or pose an immediate, serious threat to the community. This division is characterized by extreme security measures to prevent any attempts of escape or misconduct. Key features include:
 - **Impenetrable Design:** Range 13 is built to be escape-proof with reinforced walls and secure doors.
 - **Constant Surveillance:** This unit is under constant surveillance by staff to ensure the highest level of security and to monitor the behavior of the inmates.
@@ -23,10 +23,10 @@ Range 13, also known as Death Row, is reserved for players who are meant to be _
 
 These specialized units within the jail system help CiviCraft maintain a safe and enjoyable environment for all players by ensuring that rule-breakers are appropriately managed and disciplined.
 
-### Death Penalty
+## Death Penalty
 CiviCraft reserves death penalties for players who have committed severe server-related offenses that, while not involving hacking or posing an immediate, serious threat to the community, still significantly disrupt the game's environment or harm its community. These offenses may include, but are not limited to, repeated griefing, extreme harassment, exploitation of game mechanics, or other serious violations of the server's rules and code of conduct.
 
-#### Sentencing and Incarceration
+### Sentencing and Incarceration
 When a player is sentenced to death, they are confined to Range 13, a high-security unit within the prison known as Death Row. The conditions in Range 13 are stringent, reflecting the severity of the crimes committed by those housed there.
 
 - **Duration of Stay:** Players sentenced to death are held in Range 13 for a period of 30 real-life days. This extended period allows for a thorough review of the case and provides the player with opportunities to appeal or seek clemency.
@@ -34,7 +34,7 @@ When a player is sentenced to death, they are confined to Range 13, a high-secur
 - **Cell Conditions:** Offenders are kept in isolated, secure cells with minimal interaction with other players. This isolation serves to prevent any further disruption or collusion and ensures the safety and security of the prison environment.
 - **Communication:** Communication is strictly limited to the local prison chat. This measure helps maintain order and prevent the spread of disruptive behavior or influence.
 
-#### Player Options Post-Sentencing
+### Player Options Post-Sentencing
 After receiving their sentence, players have several options to consider regarding their impending execution:
 
 1. **Accept Fate:**
@@ -52,7 +52,7 @@ After receiving their sentence, players have several options to consider regardi
     - **Appeal Review:** Appeals are thoroughly reviewed by a panel of administrators. The review process aims to ensure fairness and justice, taking into account all aspects of the case.
     - **Outcome:** Based on the appeal review, the sentence may be upheld, reduced to a temporary ban, or overturned. If the appeal is successful, the player may be transferred to a different unit or released under certain conditions.
 
-#### Execution and Post-Execution Procedures
+### Execution and Post-Execution Procedures
 If no reprieve or appeal is granted, the player's execution proceeds as scheduled:
 - **Final Meal:** The player may request any food as a final meal that they will eat before their formal execution.
 - **Last Words:** The player states their last words directly before execution.
@@ -67,29 +67,29 @@ Players who are executed and subsequently permanently banned may still appeal at
 
 The death penalty in CiviCraft is a last resort, reserved for the most serious violations. Through this system, the server strives to balance justice, fairness, and the opportunity for players to learn from their mistakes and potentially redeem themselves.
 
-### Prison Escape
+## Prison Escape
 Prison escape is a thrilling aspect of CiviCraft that adds excitement and challenge to the gameplay. Players who find themselves incarcerated may attempt to escape from prison, though the endeavor is fraught with difficulty and risk. Escaping requires ingenuity, strategy, and sometimes the help of others.
 
 While the specifics of how to escape are closely guarded secrets, it is known that there are various methods and tactics players might use to break free. These methods can range from social engineering to devising complex escape plans, each requiring a different set of skills and resources.
 
-#### Social Engineering
+### Social Engineering
 Using manipulation and psychological tactics, some players might attempt to influence others to gain access or information crucial for an escape.
 
-#### Complex Escape Plans
+### Complex Escape Plans
 Carefully planned and executed, complex escape plans involve multiple steps and often require the coordination of several players.
 
-#### External Assistance
+### External Assistance
 Escaping with the help of allies outside the prison can increase the chances of success.
 
-#### Exploiting Weaknesses
+### Exploiting Weaknesses
 Every prison has its weaknesses, whether in surveillance or guard patterns. Identifying and exploiting these vulnerabilities is possible, but how this is achieved is something each prisoner must figure out on their own.
 
-#### Legal Loopholes
+### Legal Loopholes
 Some players might try to navigate the legal system to their advantage, seeking appeals or finding legal loopholes. The process and success of these methods are shrouded in mystery and require a deep understanding of the game’s legal mechanics.
 
 :::warning Risks and Consequences
 Attempting to escape from prison is inherently risky and carries significant consequences. Players caught in the act may face extended sentences, stricter confinement, or additional fines.
 :::
 
-### Activities & Locations
-### Guards
+## Activities & Locations
+## Guards
