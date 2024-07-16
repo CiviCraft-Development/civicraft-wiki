@@ -1,0 +1,1 @@
+# Common Discord Scams
