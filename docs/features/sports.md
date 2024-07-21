@@ -8,7 +8,7 @@ CiviCraft offers a diverse array of sports for players to enjoy throughout the c
 Kick off on our expansive soccer fields. Form teams, practice your dribbling skills, and compete in friendly matches or tournaments.
 
 ### Tennis
-Serve up some excitement on our well-maintained tennis courts. Whether you're aiming for a quick singles game or a doubles showdown, our courts are ready for action.
+Serve up some excitement on our tennis courts located throughout the city. Whether you're aiming for a quick singles game or a doubles showdown, our courts are ready for action.
 
 ### Pickleball
 Experience the fast-paced fun of pickleball, a blend of tennis, badminton, and table tennis. Our designated courts are perfect for all players.
@@ -31,7 +31,7 @@ Engaging in sports on CiviCraft not only provides entertainment but also offers 
 - **Stamina**: Improve endurance and resilience with regular sports activities.
 - **Agility**: Enhance speed and reflexes through dynamic movements required in sports.
 - **Fitness**: Maintain and improve overall health with physical activities that contribute to your avatar's well-being.
-- 
+
 ## Frequently Asked Questions
 
 ### How do I join a sports game or event?
