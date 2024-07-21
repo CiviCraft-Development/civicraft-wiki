@@ -51,6 +51,8 @@ Family trees in CiviCraft provide a visual representation of player relationship
 - **Visualization:** Players can view their family tree within the game interface, which helps to track lineage and connections over time.
 - **Legacy:** Family trees contribute to the legacy of player characters, showcasing the evolution of relationships and the establishment of generational ties within the game world.
 
+![image](https://i.ibb.co/tPYgSkd/2024-05-05-18-58-45.png)
+
 #### Family Tree Commands
 | Command              | Description                               |
 |----------------------|-------------------------------------------|
