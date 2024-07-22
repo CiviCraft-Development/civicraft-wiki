@@ -1,5 +1,6 @@
 # Library
 
+( photo of the library and maybe some quick facts? Also a video! Make one)
 ## Get a Library Card
 Library cards provide access to the library's vast inventory of player-written books. To obtain a library card, players must first achieve Citizen status. Once a player is a Citizen, they can acquire a library card and begin checking out books by completing one of the following options:
 ### Option 1: Take the Exam

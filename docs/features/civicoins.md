@@ -30,13 +30,11 @@ The CiviCraft Shop exclusively accepts CiviCoins and operates entirely in-game, 
 
 What's available is constantly changing with each new holiday and update, but to view what is currently available, run `/civishop` in-game!
 
----
+:::warning Don't Get Scammed
 
-**NOTE**
+There is no other CiviCraft server store online or through Discord. We do not accept payments using real-life or in-game money. If anyone claims otherwise, please report this to server staff immediately..
 
-There is no other CiviCraft server store online or through Discord. We do not accept payments using real-life or in-game money. If anyone claims otherwise, please report this to server staff immediately.
-
----
+:::
 
 ## CiviCoins FAQ
 
