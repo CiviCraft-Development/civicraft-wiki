@@ -1,1 +1,1 @@
-# How to Edit Videos
+# Editing Videos
