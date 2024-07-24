@@ -9,9 +9,13 @@ To add a doorbell to a door:
 1. Place a button within a 1-block radius of the door.
 2. Use the command `/doorbells set <SOUND>` to assign a sound to the doorbell.
     - Example: `/doorbells set block.note_block.chime`
-    - To find sounds, visit (link to mc sounds wiki)
+
+#### Available Sounds
+The following is a list of all available sounds. This is based on Minecraft-provided sounds although not all are available.
 
 ### Managing Your Doorbell
 You can manage your doorbells with the following commands:
 - `/doorbells list`: See all available sounds you can use for doorbells.
 - `/doorbells remove`: Remove the doorbell associated with the button you're looking at.
+
+![Image](https://i.ytimg.com/vi/aU-0exbI3Nc/maxresdefault.jpg)
