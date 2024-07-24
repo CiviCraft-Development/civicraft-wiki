@@ -19,3 +19,4 @@ You can manage your doorbells with the following commands:
 - `/doorbells remove`: Remove the doorbell associated with the button you're looking at.
 
 ![Image](https://i.ytimg.com/vi/aU-0exbI3Nc/maxresdefault.jpg)
+*Image credit: Cubey (Youtube)*
