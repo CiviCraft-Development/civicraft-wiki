@@ -22,52 +22,52 @@ Political parties in CiviCraft provide players with opportunities to participate
 ## Election Types
 CiviCraft's election system supports various types of election counting methods. Players in the government can pass legislation that decides on which election type is used it each type of election.
 
-### 1. First-Past-The-Post (FPTP)
+### First-Past-The-Post (FPTP)
 **Description:** The candidate with the most votes in a single-member district wins the election.
 
 **Example:** In a district with 100 voters, if Candidate A receives 40 votes, Candidate B receives 35 votes, and Candidate C receives 25 votes, Candidate A wins.
 
-### 2. Proportional Representation (PR)
+### Proportional Representation (PR)
 **Description:** Seats in a multi-member district are allocated proportionally based on the percentage of votes each party receives.
 
 **Example:** In an election with 100 seats, if Party A receives 40% of the votes, Party B receives 35%, and Party C receives 25%, then Party A gets 40 seats, Party B gets 35 seats, and Party C gets 25 seats.
 
-### 3. Ranked-Choice Voting (RCV)
+### Ranked-Choice Voting (RCV)
 **Description:** Voters rank candidates in order of preference. If no candidate receives a majority, the candidate with the fewest votes is eliminated and their votes are redistributed based on next preferences. This continues until a candidate wins a majority.
 
 **Example:** In an election, if no candidate receives more than 50% of first-choice votes, the candidate with the least votes is eliminated and their votes are redistributed to the remaining candidates based on second choices. This process repeats until a candidate wins a majority.
 
-### 4. Two-Round System
+### Two-Round System
 **Description:** If no candidate wins a majority in the first round, a second round is held between the top two candidates.
 
 **Example:** In the first round, Candidate A gets 45%, Candidate B gets 30%, and Candidate C gets 25%. Since no candidate has a majority, a second round is held between Candidates A and B, where the candidate with the most votes wins.
 
-### 5. Single Transferable Vote (STV)
+### Single Transferable Vote (STV)
 **Description:** Voters rank candidates by preference in multi-member districts. Candidates must reach a quota to be elected. Excess votes for winning candidates and votes for eliminated candidates are transferred according to voter preferences.
 
 **Example:** In a district with 3 seats and 100 votes, the quota to win a seat is 25 votes. If Candidate A receives 30 votes, 5 surplus votes are transferred to other candidates based on preferences. This process continues until all seats are filled.
 
-### 6. Block Voting
+### Block Voting
 **Description:** Voters have as many votes as there are seats to be filled, and the candidates with the most votes win.
 
 **Example:** In an election with 3 seats, a voter can vote for 3 candidates. The 3 candidates with the highest vote totals win the seats.
 
-### 7. Cumulative Voting
+### Cumulative Voting
 **Description:** Voters have as many votes as there are seats, but they can distribute their votes among candidates as they choose, including giving multiple votes to a single candidate.
 
 **Example:** In an election with 3 seats, a voter has 3 votes. They can give all 3 votes to one candidate or distribute them among several candidates.
 
-### 8. Approval Voting
+### Approval Voting
 **Description:** Voters can vote for as many candidates as they approve of. The candidate with the most votes wins.
 
 **Example:** In an election with 5 candidates, a voter can vote for Candidate A, Candidate C, and Candidate D. The candidate with the highest number of votes wins.
 
-### 9. Borda Count
+### Borda Count
 **Description:** Voters rank candidates in order of preference. Points are assigned based on the ranking (e.g., 1 point for last choice, 2 points for second-to-last, etc.). The candidate with the highest total points wins.
 
 **Example:** In an election with 4 candidates, if a voter ranks them as A > B > C > D, Candidate A gets 4 points, B gets 3, C gets 2, and D gets 1. The candidate with the most points across all voters wins.
 
-## Election Period
+## Election Phases
 ### Declarations
 The election period begins when declarations open. During this phase, eligible players can contest for a position either as an Independent candidate or as a member of any registered political party. Candidates must meet specific criteria to be eligible, which may include citizenship status, playtime requirements, and other qualifications. This phase is crucial as it sets the stage for the upcoming campaign and election. Candidates will need to declare in-game during the declaration period by visiting the Department of State (/gps DOS).
 
