@@ -18,5 +18,18 @@ You can manage your doorbells with the following commands:
 - `/doorbells list`: See all available sounds you can use for doorbells.
 - `/doorbells remove`: Remove the doorbell associated with the button you're looking at.
 
+### Using a Doorbell
+Once you've set up your doorbell, you're ready to use it!
+
+#### Managing Access
+By default, doorbells can be rang by anyone. To change the permission of who can ring your doorbell:
+1. `/bolt lock` to lock the doorbell
+2. `/bolt edit add (Player)` to add a player.
+
+Alternatively, doorbells can be set to only be accessed by a specific group or password protected.
+- Password protection: `/bolt modify add password (Password)`
+- Adding a group: `/bolt modify add group`
+
+For more information about locking items, visit (link)
 ![Image](https://i.ytimg.com/vi/aU-0exbI3Nc/maxresdefault.jpg)
 *Image credit: Cubey (Youtube)*

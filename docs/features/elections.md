@@ -17,12 +17,13 @@ Political parties in CiviCraft play a crucial role in shaping the game's politic
 
 - **Role-playing and Interaction:** Political parties also serve as hubs for role-playing and interaction among players who share similar interests and ideologies. They contribute to the immersive and dynamic nature of political gameplay in CiviCraft.
 
-Political parties in CiviCraft provide players with opportunities to participate in democratic processes, influence game events, and collaborate with others to achieve common goals. Detailed information can be found at (link to article).
+Political parties in CiviCraft provide players with opportunities to participate in democratic processes, influence game events, and collaborate with others to achieve common goals. More information about political parties can be found in the [political parties article](https://wiki.civicraft.net/docs/features/political-parties).
+
 ## Election Types
 CiviCraft's election system supports various types of election counting methods. Players in the government can pass legislation that decides on which election type is used it each type of election.
 
 ### 1. First-Past-The-Post (FPTP)
-**Description:** In this method, the candidate with the most votes in a single-member district wins the election.
+**Description:** The candidate with the most votes in a single-member district wins the election.
 
 **Example:** In a district with 100 voters, if Candidate A receives 40 votes, Candidate B receives 35 votes, and Candidate C receives 25 votes, Candidate A wins.
 
@@ -68,25 +69,36 @@ CiviCraft's election system supports various types of election counting methods.
 
 ## Election Period
 ### Declarations
-The election period begins when declarations open. During this phase, eligible players can contest for a position either as an Independent candidate or as a member of any registered political party. Candidates must meet specific criteria to be eligible, which may include citizenship status, playtime requirements, and other qualifications. This phase is crucial as it sets the stage for the upcoming campaign and election. Candidates typically need to fill out a declaration form and submit it to the appropriate election authority within the game.
+The election period begins when declarations open. During this phase, eligible players can contest for a position either as an Independent candidate or as a member of any registered political party. Candidates must meet specific criteria to be eligible, which may include citizenship status, playtime requirements, and other qualifications. This phase is crucial as it sets the stage for the upcoming campaign and election. Candidates will need to declare in-game during the declaration period by visiting the Department of State (/gps DOS).
 
 ### Campaigning
 After declaring their candidacy, players enter the campaigning phase. This is a critical time to gather support and convince other players to vote for them. Campaigning can be done in various ways, including:
-- **Posting Advertisements:** Use in-game advertisement locations, the discord #campaign channel, or social media to post campaign messages and media.
+- **Posting Advertisements:** Use in-game advertisements, billboards and storefronts, the discord #campaign channel, or social media to share campaign messages and media.
 - **Creating Campaign Discords:** Create a Discord server for your campaign to connect with supporters and outline your policies.
 - **Rallies and Events:** Organize events or rallies to meet potential voters and discuss your platform.
 - **Direct Communication:** Engage with players through private messages, chats, or in-game meetings to answer questions and gain support.
 - **Endorsements:** Seek endorsements from influential players or groups to boost your credibility and reach.
 
 ### Voting
-Once the declaration period ends, the Department of State performs final checks to ensure all declarations are valid. This includes verifying candidate eligibility and confirming that all necessary paperwork has been submitted. After these checks, the voting phase begins. Players can cast their votes at multiple polling stations around the map. These locations can be viewed either from the web map or by using the in-game command `/gps start <pollingplacesomething>`. It's important for candidates to remind their supporters to vote and provide information on how and where to do so. Voting methods may vary, including electronic ballots, paper ballots, or other in-game mechanisms.
+Once the declaration period ends, the Department of State performs final checks to ensure all declarations are valid. This includes verifying candidate eligibility and confirming that any additional requirements have been met. After these checks, the voting phase begins. Players can cast their votes at multiple polling stations around the map. These locations may change and will always be published with election information. Players will always be able to cast votes at the Department of State building, the New Player Center, and the Capitol.
+
+To vote, a player must hold the rank of Citizen by taking the citizenship exam. Then, they may visit any polling location and access an Electronic Voting Machine. There, they may cast their votes. Once a player successfully votes, they will receive a wearable "I Voted" sticker!
+
+(Image of a voting machine and maybe player lining up? Something really patriotic too!)
+
+:::tip No credit needed
+
+It's important for candidates to remind their supporters to vote and provide information on how and where to do so.
+
+:::
+
 
 ### Results
-After the voting phase concludes, votes are tallied, and the results are announced. This phase involves:
-- **Counting Votes:** Election officials or automated systems count the votes cast at each polling station.
+After the voting phase concludes, votes are tallied, and the results are announced first on the Discord, then in-game. In summary, this phase involves the following:
+- **Counting Votes:** Election officials count the votes cast at each polling station with the assistance of the automated vote counting system.
 - **Verifying Results:** Ensuring the accuracy and integrity of the vote count to prevent fraud or errors.
 - **Announcing Winners:** Officially announcing the winning candidates and, if applicable, any runoffs or secondary rounds if no candidate achieves the required majority.
-- **Post-Election Procedures:** Addressing any disputes or challenges to the results and transitioning the winners into their new roles.
+- **Post-Election Procedures:** Addressing any disputes or challenges to the results and transitioning the winners into their new elected positions.
 
 ## Ensuring Election Integrity
 
