@@ -24,18 +24,14 @@ The Agility Attribute can take you higher as you break past normal jumping limit
 The Reflexes Attribute makes you figuratively quicker on your feet, significantly decreasing your chance of taking damage.
 
 #### Lung Capacity
-The Lung Capacity Attribute allows you to spend a longer time underwater without any special gear to extend the life of your bubbles.
+The Lung Capacity Attribute allows you to spend a longer time underwater without any gear or potions to extend the life of your bubbles.
 
 ## Commands
 The following are commands associated with Attributes and information about them.
 
-| Command                      | Function                                        | Permission Needed   |
-|------------------------------|-------------------------------------------------|---------------------|
-| /attributes view             | Allows you to view your attributes statistics   | None                |
-| ------------------           | ----------------------------------------------- | ------------------- |
-| /attributes view [Username]  | Allows you to view another player's attributes  | None                |
-| ------------------           | ----------------------------------------------- | ------------------- |
-| /attributes help             | Shows a help menu and all commands              | None                |
-| ------------------           | ----------------------------------------------- | ------------------- |
-| /attributes info [Attribute] | Shows information about an attribute            | None                |
-| ------------------           | ----------------------------------------------- | ------------------- |
+| Command                      | Function                                        |
+|------------------------------|-------------------------------------------------|
+| /attributes view             | Allows you to view your attributes statistics   |
+| /attributes view [Username]  | Allows you to view another player's attributes  |
+| /attributes help             | Shows a help menu and all commands              |
+| /attributes info [Attribute] | Shows information about an attribute            |

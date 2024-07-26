@@ -5,7 +5,7 @@ sidebar_position: 1
 # How to Take Screenshots
 Taking screenshots in Minecraft can be a useful way to capture memorable moments, document builds, or showcase your achievements. Here’s a step-by-step guide on how to take screenshots in Minecraft, along with troubleshooting tips for common errors.
 
-### 1. In-Game Method:
+### In-Game Method:
 
    **Step 1:** Position your character in Minecraft to capture the scene you want to screenshot.
 
@@ -16,7 +16,7 @@ Taking screenshots in Minecraft can be a useful way to capture memorable moments
    macOS: ~/Library/Application Support/minecraft/screenshots
    Linux: ~/.minecraft/screenshots
 
-### 2. Using External Tools:
+### Using External Tools:
 
 If you prefer more control over your screenshots or want additional features such as image editing, you can use external tools like OBS Studio, Bandicam, or Snipping Tool (Windows) to capture screenshots.
 
