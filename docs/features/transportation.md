@@ -1,14 +1,14 @@
 # Transportation
 
-### Public Transportation
+## Public Transportation
 taxi, bus, plane, train, maybe something else train related?
-#### Types
-#### Locations
+### Types
+### Locations
 transportation locations
-#### Recipes
+### Recipes
 
-### Private Transportation
-#### Types
-#### How to Purchase
-#### Recipes
+## Private Transportation
+### Types
+### How to Purchase
+### Recipes
 cars and other vehicles, private planes, 

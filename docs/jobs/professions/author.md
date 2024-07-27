@@ -4,7 +4,7 @@
 The Author job is a role designed to celebrate and support the talented writers within our community by providing them with custom mechanisms to stand out from hobby and casual writers. Authors have the unique ability to create custom books within the game, and thanks to our proprietary plugin, they can exclusively set their own book covers, adding a personal touch to their literary works. Additionally, Authors can manage book author names and export their books to a text file!
 
 ### How to Become an Author
-Becoming an Author on CiviCraft is a straightforward process. Visit the University by any means of transportation and take the author exam! To find the room, just run `/gps start authorexam`!
+Becoming an Author on CiviCraft is a straightforward process. Visit the University by any means of transportation and take the author exam! To find the room, just run `/gps start author-exam`!
 
 ### Job Duties
 As an Author, your primary duties include:
@@ -23,7 +23,7 @@ Authors on CiviCraft enjoy several exclusive perks:
 Authors on CiviCraft may receive compensation in various forms:
 - **In-Game Currency**: Earn in-game currency for each book published and sold, which can be used to purchase items and upgrades within the server.
 - **Special Items**: Receive exclusive items and rewards for your contributions and achievements as an Author.
-- **Real-World Rewards**: Exceptional Authors may occasionally be eligible for real-world rewards, such as gift cards or merchandise, in recognition of their outstanding work.
+
 
 ### What's Next?
 Once you’ve established yourself as an Author, there are many opportunities for growth and further involvement:

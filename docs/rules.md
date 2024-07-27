@@ -45,7 +45,11 @@ We prioritize community well-being and safety over engaging with toxic individua
 :memo: This does not include in-game politics, religion, acts of violence, and so on.
 
 ## Minecraft-Specific
-The following are rules that are hyper-specific to Minecraft.
+The following are rules that are specific to Minecraft.
+
+### M1. Do not use unapproved mods or hacks/hacked clients
+
+### M2. something about bugs
 ## Discord-Specific
 The following are rules that are hyper-specific to Discord.
 ### 1. Keep discussions in their relevant channel

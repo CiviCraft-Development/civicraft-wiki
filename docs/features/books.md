@@ -4,6 +4,12 @@ Creativity is a core value in CiviCraft and to support this, we've custom coded 
 ## Change Book Metadata
 ### Author
 ### Cover
-### Time
+### Date and Time
+The date and time (in UTC) is added to book metadata on signing.
 
 ## Import & Export Book Content
+
+### Importing Content
+Staff may import content into books on the behalf of authors.
+### Exporting Content
+Players with the Author job may export content from books that they have written. You may not export other's books.
