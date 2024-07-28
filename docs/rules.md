@@ -1,3 +1,5 @@
+# Rules
+
 ## Server Rules
 Understanding and knowing the rules and purposes of the various channels is your responsibility, and ignorance of the rules is no excuse for breaking them or avoiding the resulting punishments.
 
