@@ -12,10 +12,10 @@ We believe that a vibrant and satisfied player community is the heart of CiviCra
 ### Application of Policy
 This policy has been primarily established to guide our internal decision-making processes, ensuring that we consistently prioritize the best interests of our players. It influences various aspects of the player experience, from gameplay mechanics to interactions with server features. By adhering to this policy, we aim to create a fair, enjoyable, and engaging environment for everyone. Our commitment to these guidelines helps us maintain a high standard of quality and responsiveness, fostering a community where players can thrive and fully enjoy all that CiviCraft has to offer.
 
-When our staff consider the implementation of new features, the direction of development, or any decisions that ultimately affect the player experience, they are guided by a set of core principles. To ensure that every decision aligns with our commitment to our community, staff members must ask themselves the following questions:
+When server management considers the implementation of new features, the direction of development, or any decisions that will ultimately affect the player experience, they are guided by a set of core principles. To ensure that every decision aligns with our commitment to our community, staff members must ask themselves the following questions:
 
 1. How will this change impact the player experience?
-* Will this new feature or decision enhance gameplay and overall enjoyment? 
+* Will this new feature or decision enhance gameplay and overall enjoyment?
 * Are there potential downsides that could detract from the player's experience?
 
 2. Is this decision in line with our core values and vision for the server?
@@ -38,19 +38,20 @@ When our staff consider the implementation of new features, the direction of dev
 * Does this feature encourage collaboration and positive interaction among players?
 * How can we foster a stronger sense of community through this decision?
 
-By carefully considering these questions, we ensure that every decision we make is thoughtfully evaluated and aligns with our goal of providing the best possible experience for our players. This policy is designed to guide our internal decision-making processes, helping us to consistently prioritize the interests and well-being of our community. Through this careful and player-focused approach, we strive to create a vibrant, enjoyable, and dynamic environment for all who join CiviCraft.
+By carefully considering these questions, we ensure that every decision we make is thoughtfully evaluated and aligns with our goal of providing the best possible experience for our players. This policy is designed to guide our internal decision-making processes, helping us to consistently prioritize the interests and well-being of our community.
 
 
 ### Report Concerns or Violations Regarding this Policy
 Violating this policy would contradict the very principles upon which our server is built. Therefore, we take any breach of this policy extremely seriously and are committed to addressing any violations promptly and thoroughly.
 
 To ensure that our commitment to putting players first is upheld, it's essential to recognize specific instances where this policy might be violated. Players might notice or experience the following issues, which would indicate a breach of our Player First commitment:
+
 1. Lack of Communication and Transparency:
 * *Example:* Major updates or changes are implemented without prior notice or explanation to the player community.
 * *Impact:* Players feel blindsided by sudden changes and believe their input is not valued.
 
 2. Ignored Player Feedback:
-* *Example:* Multiple players have raised concerns or suggestions about a particular feature, but no action or response has been taken by the staff.
+* *Example:* Multiple players have raised concerns or suggestions about a particular feature, but no action or response has been provided by the staff.
 * *Impact:* Players feel that their voices are not heard and that their opinions do not matter.
 
 3. Unfair Game Mechanics:
