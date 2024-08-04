@@ -49,10 +49,6 @@ Almost all commands, at bare minimum, require a player to hold the rank of Citiz
 | /class schedule                                         | Displays the schedule of upcoming live classes.                   |
 | /class stats [classID]                                  | Allows professors to view statistics for a specified class.       |
 | /class unenroll [player] [classID]                      | Allows professors to manually unenroll a player from a class.     |
-| /doorbells                                              | Brings up the help menu for doorbells.                            |
-| /doorbells list                                         | Lists available sounds for doorbells.                             |
-| /doorbells remove                                       | Removes a button as a doorbell.                                   |
-| /doorbells set [Sound]                                  | Sets a button as a doorbell.                                      |
 | /exam                                                   | Opens the exam GUI.                                               |
 | /exam help                                              | Provides help and information on using the exam commands.         |
 | /exam notify                                            | Toggles notifications for exam updates and results if pending.    |
