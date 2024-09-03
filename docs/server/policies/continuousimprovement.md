@@ -4,3 +4,5 @@ CiviCraft is committed to continuous improvement of every aspect of our server. 
 
 ## Code Review & Optimization
 Proprietary plugins have their code reviewed every 
+
+## Player Engagement

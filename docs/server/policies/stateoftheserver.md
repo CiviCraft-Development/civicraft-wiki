@@ -20,6 +20,7 @@ Server Security covers incidents that have directly impacted our server, as well
 ### Server Attacks
 Attempts on the server often deal with malicious actors who have attempted to perpetrate a Distributed Denial of Service (DDoS) attack, social engineering attempts, unauthorized access attempts, data breaches, and server exploits.
 ### External Factors
+
 ### Security Updates
 This subsection contains any changes made to improve security on the server, the Discord, and the website. Server security updates typically deal with updates to plugins or other components with the intention to patch bugs and potential exploits that exist within the code. These also may have to do with safeguarding the server against any threat that is known within the wider Minecraft community. Discord updates often have to do with changes to permissions or updates to the bots regarding known vulnerabilities. Lastly, the website subsection will contain information regarding changes to improve the overall security posture of the site.
 
