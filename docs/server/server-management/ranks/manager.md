@@ -21,7 +21,7 @@ Senior managers typically possess:
 - Proven leadership abilities and a track record of effective moderation and decision-making.
 - Exceptional communication skills and the ability to remain diplomatic and impartial in challenging situations.
 
-### manager
+### Manager
 
 #### Role and Responsibilities
 managers are essential members of the staff team, known for their comprehensive understanding of the server’s mechanics, policies, and community dynamics. Their responsibilities include:

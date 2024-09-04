@@ -22,6 +22,7 @@ Modeling Architects are responsible for creating 3D models used in the game or i
 Configuration Specialists work to configure aspects of the server that require detailed configuration. This comes in many forms, but configuration specialists are often tasked with managing the configuration of models and plugins. Configuration Specialists also consult on the development on configuration files for proprietary plugins.
 
 ## Server Management
+Server Management, known on other servers as the staff team, carry out large-scale projects, tasks, and day-to-day operations to maintain and improve the server.
 ### Junior Moderator
 ### Staff Moderator
 ### Senior Moderator
