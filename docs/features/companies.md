@@ -15,10 +15,15 @@ Companies have the ability to set their hiring status between the following:
   - Players must submit an application and be approved before joining a company.
 - Closed
   - No one may apply to the company.
-  - **Note:** You can still hire players even if the company is set to closed.
+
+:::tip You Can Always Hire Players!
+
+No matter your hiring status or if you have any jobs available, you can hire players! Hiring statuses and jobs available only determine how players will be able to interact with your hiring process on their end.
+
+:::
 
 #### In-Game Hiring Process
-The In-Game hiring process is a structured approach to recruiting players to a company.
+The in-Game hiring process is a structured approach to recruiting players to a company.
 #### Discord Hiring Process
 The Discord hiring process is a less-structured and more custom approach to recruiting players. #channel-name is a channel that is available on the official CiviCraft discord for hiring players. Employers may post advertisements for jobs available in their company and how to apply.
 
