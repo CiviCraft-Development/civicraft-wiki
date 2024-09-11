@@ -1,15 +1,19 @@
-# Reporting Staff
+# Reporting Management
 
 ## Submit Report
 ### Behaviors to Report
-We hold staff members to the same rules that players are held to. 
+We hold members of server management to the same rules that players are held to. In addition to this, server management has additional standards they are expected to meet when interacting with players.
 
 :::tip Breaking laws is a different thing
 
-If a staff member breaks the law, the justice does not fall into our hands! Staff are free to participate in the criminal roleplay side of the server and should not be reported through the staff report process for breaking laws. Visit the courts or a law office for that!
+If a member of management breaks the law, the justice does not fall into our hands! They are free to participate in the criminal roleplay side of the server and should not be reported through the management report process for breaking laws. Visit the courts or a law office for that!
 
 :::
 ## Discuss the Report
+The report will be discussed with both the
+
+## Investigation
+
 ## Outcome
 The outcome of the report will
 ## Notes
