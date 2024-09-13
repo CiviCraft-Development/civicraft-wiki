@@ -3,8 +3,10 @@
 There are various games to play throughout the server.
 
 ## Current Games
+
 ### Uno
 Uno can be accessed by using a Deck of Uno Cards (link to crafting recipe).
+
 ### Blackjack
 Blackjack can be accessed by using a Deck of Cards (link to crafting recipe).
 Requires 2 players
