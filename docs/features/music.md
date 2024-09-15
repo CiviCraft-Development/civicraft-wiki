@@ -2,9 +2,13 @@
 
 ## Available Instruments
 ### Piano
+-Photo of a piano
 ### Acoustic Guitar
+-Photo of an acoustic guitar
 ### Electric Guitar
+-Photo of an electric guitar
 ### Bass
+-Photo of a bass
 
 ## Music Lessons
 Music lessons are offered at the University as an automated class. Occasionally, live music classes may be hosted. These music classes teach real-life music theory as well as how to read sheet music. Additionally, they teach how to play instruments in the game with many of the lessons being applicable to real life. 

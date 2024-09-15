@@ -40,12 +40,18 @@ Players can also focus on specific training to purposefully increase their attri
 Surgeries are advanced medical procedures available in hospitals for players with serious health issues or injuries. (Surgery info)
 
 ## Diagnostic Imaging
-Diagnostic imaging is essential for accurately diagnosing and treating health issues. The hospital offers several types of imaging:
-- **CT Scans:** Detailed images of internal organs and tissues.
-- **Ultrasounds:** Non-invasive imaging for soft tissues and organs.
-- **MRIs:** High-resolution images of organs and structures inside the body.
-- **X-Rays:** Quick imaging for bones and certain tissues.
-  (Give more details about how they are performed)
+Diagnostic imaging is essential for accurately diagnosing and treating health issues. Symptoms can overlap, and diagnostic imaging may be used to diagnose and treat a player illness!
+
+If a doctor finds diagnostic imaging necessary to properly identify and treat a patients's ailment, they'll take the patient to the appropriate room and run the associate command with producing diagnostic imaging results. The results returned will reveal if there is any discrepencies in which the doctor can then treat from there. It's important for doctors to be aware of what symptoms require which scan. Misdiagnosing a player may result in longer patient visit times, additional costs, and in some cases, legal consequences.
+
+### CT Scan
+-Image of the CT machine
+### Ultrasound
+-Image of the ultrasound machine
+### MRI
+-Image of the MRI machine
+### X-Ray
+-Image of the x-ray set-up
 
 
 
