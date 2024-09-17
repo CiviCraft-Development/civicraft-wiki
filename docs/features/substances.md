@@ -1,4 +1,4 @@
 # Substances
 
-### Uses
-### Recipes
+## Uses
+## Recipes

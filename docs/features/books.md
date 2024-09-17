@@ -37,3 +37,6 @@ Players with the Author job may export content from books that they have written
 2. Run `/book export`
 3. Access the content of your exported book!
    - A link will be created that has the content of the exported book.
+
+## Bookshelves
+Bookshelves can be used as storage. With 2 rows of space, you can store enchanted books, regular books, book and quills, and signed books. These bookshelves can be locked and additionally be used to create a shop out of!

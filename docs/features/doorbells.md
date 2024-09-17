@@ -17,7 +17,7 @@ You can manage your doorbells with the following commands:
 - `/doorbells remove`: Remove the doorbell associated with the button you're looking at.
 
 ## Using a Doorbell
-Once you've set up your doorbell, you're ready to use it!
+Doorbells can be used by right-clicking it.
 
 ### Managing Access
 By default, doorbells can be rang by anyone. To change the permission of who can ring your doorbell:

@@ -1,6 +1,9 @@
 # Flags
 
 ## Pre-Made Flags
-The first type of flag that is available are pre-made flags. These flags are includes in the resource pack that players download and use for our custom assets.
+The first type of flag that is available are pre-made flags. These flags are includes in the resource pack that players download and use for our custom assets. Available pre-made flags may change based on server events or other happenings that cause for additional flags!
+
+### Available Flags
+
 ## Custom Flags
-Players can create custom flags with banners. To support the creation and use of custom flags, we've made it to where players can exceed banner customization limits as well as by shifting and right clicking on a fence, players may display their banners horizontally. With additional banners of the same type, players can size up their banner.
+Players can turn banners into flags by hanging them on a fence post! By shifting and right-clicking with a banner in hand, it will hand horizontally on a fence post instead of vertically. These flags can be sized up by right-clicking the flag with the same banner. On destruction, all banners put into the flag will be returned.

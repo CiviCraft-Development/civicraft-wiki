@@ -1,9 +1,10 @@
-# Death in CiviCraft
+# Death
 
-When a player dies in CiviCraft, they immediately respawn. However, each death comes with unique consequences and opportunities, from leaving behind mementos to gaining new items.
+When a player dies in CiviCraft, they can immediately respawn. However, death still exists in various forms and can come with various items.
 
 ## Obituaries
 
+-Add a photo of an obituary book opened
 If enabled (`/obituary on|off`), players will receive an obituary each time they pass away. These obituaries serve as a record of the player's in-game life, detailing their achievements, cause of death, and any memorable moments!
 
 ## Urns
@@ -18,7 +19,11 @@ Urns can be displayed in homes or other significant locations, serving as a trib
 
 ## Graves
 
-A player's head can also be used to create a gravestone, providing a more traditional way to honor the deceased. To create a grave:
+### Functional
+Functional graves are created everytime a player dies in the wild. These graves hold the player's items and a portion of the player's XP. Players are given the coordinates of their death where there grave will be located. They will then have five minutes to retrieve their items before other players gain the ability to rob the grave.
+
+### Decorative
+A player's head can also be used to create a decorative gravestone, providing a more traditional way to honor the deceased. To create a grave:
 1. **Collecting the Head:** Retrieve the player's head upon their death.
 2. **Crafting the Gravestone:** Use the head in combination with other materials to craft a gravestone.
    (photos)

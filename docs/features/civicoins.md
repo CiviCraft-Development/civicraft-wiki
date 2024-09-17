@@ -32,20 +32,20 @@ What's available is constantly changing with each new holiday and update, but to
 
 :::warning Don't Get Scammed
 
-There is no other CiviCraft server store online or through Discord. We do not accept payments using real-life or in-game money. If anyone claims otherwise, please report this to server staff immediately..
+There is no other CiviCraft server store online or through Discord. We do not accept payments using real-life or in-game money. If anyone claims otherwise, please report this to server management immediately.
 
 :::
 
 ## CiviCoins FAQ
 
 ### What can I buy with CiviCoins?
-CiviCoins can be used to purchase exclusive cosmetics that are not available through other in-game methods.
+CiviCoins can be used to purchase exclusive cosmetics that are not available through other in-game methods. These cosmetics do not provide any in-game or roleplay advantage, but moreso enhance the gameplay experience.
 
 ### How often are CiviCoins awarded?
-The frequency of CiviCoin awards depends on your level of activity and server contributions.
+The frequency of CiviCoin awards depends on your level of activity and server contributions. Playing on the server regularly, joining in on events, and contributing to the server will get you CiviCoins in no time!
 
 ### Can I trade CiviCoins with other players?
 CiviCoins are non-transferable and cannot be traded between players.
 
 ### Are there any limitations on earning CiviCoins?
-There are no strict limitations, but activities like voting, playing regularly, and helping others are the most consistent ways to earn CiviCoins.
+There are no strict limitations, but activities like voting, playing regularly, and helping others are the most consistent and easy ways to earn CiviCoins.

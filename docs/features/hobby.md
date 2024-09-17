@@ -8,19 +8,19 @@ To start a hobby, players must first attend an automated class to learn more abo
 
 ## Available Hobbies
 
-| Hobby       | Description | Progression (Y/N) |
-|-------------|-------------|-------------------|
-| Art         |             |                   |
-| Writing     |             |                   |
-| Woodworking |             |                   |
-| Pottery     |             |                   |
-| Sculpting   |             |                   |
-| Sewing      |             |                   |
-| Music       |             |                   |
-| Cooking     |             |                   |
-| Gardening   |             |                   |
-| Fishing     |             |                   |
-| Photography |             |                   |
+| Hobby       | Abilities | Progression (Y/N) |
+|-------------|-----------|-------------------|
+| Art         |           |                   |
+| Writing     |           |                   |
+| Woodworking |           |                   |
+| Pottery     |           |                   |
+| Sculpting   |           |                   |
+| Sewing      |           |                   |
+| Music       |           |                   |
+| Cooking     |           |                   |
+| Gardening   |           |                   |
+| Fishing     |           |                   |
+| Photography |           |                   |
 
 ## Hobby Progression
 Like jobs, certain hobbies allow for progression. 
