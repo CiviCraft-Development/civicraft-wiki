@@ -45,19 +45,22 @@ Tip: Try inviting a player to play with you.
 
 Within the first 24 hours of a player being on the Discord, try prioritizing engaging with them. 
 ### Helping Players & Answering Questions
-CiviCraft boasts a number of resources available to players to assist them in learning the server and easily getting an answer to 99% of their questions. In-Game tutorials of various lengths, video guides, a wiki, an in-game book, and more are provided to players. However, we can never assume players will completely engage with these resources if they engage with them at all. While this can create difficulties for them, that's where staff and guides step in!
+CiviCraft boasts a number of resources available to players to assist them in learning the server and easily getting an answer to 99% of their questions. In-Game tutorials of various lengths, video guides, a wiki, an in-game book, an automatic support bot and more are provided to players. However, we can never assume players will completely engage with these resources if they engage with them at all. While this can create difficulties for them, that's where management and guides step in!
 
 #### Answer the Question Directly
-Staff should respond to player inquiries directly rather than simply sending links or running automated commands. Providing personalized answers demonstrates attentiveness and care, making players feel valued and supported.
+Server Management should respond to player inquiries directly rather than only sending links or running automated commands -- of course, the player should be made aware of additional resources, but they shouldn't have to go to another place to get an answer that someone can easily give them. Additionally, providing personalized answers demonstrates attentiveness and care, making players feel valued and supported while they engage with our server. Here's a general template of what these replies should look like:
+
+`Hey, @player, that's a great question! <Answer to question>. You can learn more about it here: <link>`
 
 ### Handling Player Complaints
+In a server that values player feedback, we must know how to appropriately respond to players who have complaints about the server. While we cannot make everyone happy, we can definitely work with our players to find solutions and help them to the best extent we can.
 
 #### Ask for Clarification as Needed
 When a player makes a complaint, they may include too little detail, too much detail, or present information in a way that is unorganized and otherwise difficult to understand. It's vital to ask for clarification instead of proceeding with what you have been initially given in order to both shorten the process and ensure both you and the player are on the same page. 
 #### Repeat the Player's Complaint Back to Them
-Being on the same page from the get-go is crucial. When a player makes a complaint, it's important to repeat it to them, but in the way you understand it. This will help to bridge any gaps that may be created from the way the complaint is presented to the way that it is received and interpreted.
+Being on the same page from the get-go is important to resolving things in a timely and appropriate manner. When a player makes a complaint, it's important to repeat it to them, but in the way you understand it. This will help to bridge any gaps that may be created from the way the complaint is presented to the way that it is received and interpreted.
 
-When doing this, be mindful of your tone. Check that you don't come off as if you are downplaying the issue or being condescending with your recap.
+When doing this, be mindful of your tone. Check that you don't come off as if you are downplaying the issue or being condescending with your recap. Even if their complaint isn't a big issue to you, it was a big enough issue to them to mention, so we should look at things from their perspective instead of our own.
 
 #### Provide a Detailed Plan
 Players love certainty.
