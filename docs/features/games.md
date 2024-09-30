@@ -4,6 +4,9 @@ There are various games to play throughout the server.
 
 ## Current Games
 
+### 2048
+2048 can be accessed by using a computer.
+
 ### Uno
 Uno can be accessed by using a Deck of Uno Cards (link to crafting recipe).
 

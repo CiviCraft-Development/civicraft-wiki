@@ -10,12 +10,12 @@ If a member of management breaks the law, the justice does not fall into our han
 
 :::
 ## Discuss the Report
-The report will be discussed with both the
+The report will be discussed separately with both the reporter and the reported. The reported member of SM will not be aware of who filed the report.
 
 ## Investigation
 
 ## Outcome
-The outcome of the report will
+The outcome of the report will be determined based on the results of the investigation. Punishments will often be developed based on certain findings although any applicable rules and the pre-determined punishments with those rules will be used as a guideline. 
 ## Notes
 ### Privacy Throughout
 The individual being reported will not be aware of who has submitted this report. From start to end, this report is handled by the owners of the server with no involvement from senior management.
