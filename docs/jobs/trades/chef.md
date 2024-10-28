@@ -1,8 +1,8 @@
 # Chef
 
-### Overview
-### How to Become a
-### Job Duties
-### Perks
-### Payment
-### What's Next?
+## Overview
+## How to Become a Chef
+## Job Duties
+## Perks
+## Payment
+## What's Next?

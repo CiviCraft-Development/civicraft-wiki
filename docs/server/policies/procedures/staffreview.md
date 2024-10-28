@@ -17,7 +17,7 @@ These reviews are intended to be informal and conversation-starting. We want to 
 8. Do you feel the current expectations of your role are clear?
 9. How would you rate the support you receive from other team members?
 
-Each question on the form is optional. While we encourage team members to answer each, it is not required.
+Each question on the form is optional. While we encourage team members to answer each, it is not required. The answers to these questions are collected and reviewed and the results of this review will be announced for all SM members.
 
 ### Questions in Personal Channels:
 1. How are you enjoying being a part of Server Management?
@@ -33,5 +33,6 @@ Each question on the form is optional. While we encourage team members to answer
 Each month, 1-3 team members will be chosen at random for a staff review. These are intended to be more informal than regular staff reviews with no guiding questions outside of asking about current experience.
 
 ## Incident-Provoked Staff Review
+
 
 
